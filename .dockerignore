@@ -1,0 +1,13 @@
+.git
+.idea
+.gradle
+out
+*.iml
+*.log
+.env
+.env.*
+!*.env.example
+
+build/*
+!build/libs/
+!build/libs/*.jar
